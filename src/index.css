@@ -1,0 +1,16 @@
+/* font */
+@import url('https://fonts.googleapis.com/css2?family=Montserrat&family=Open+Sans:ital@1&family=Roboto+Mono&display=swap');
+
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+
+@layer components {
+
+  body {
+    font-family: 'Montserrat', sans-serif;
+  }
+}
